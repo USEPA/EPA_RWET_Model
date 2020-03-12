@@ -14,8 +14,6 @@ The RWET code is available as-is and is still under development.
 
 No technical support is available and this RWET (Real World Emission Tool) code will be updated/modified without notice.
 
-This open-source code is used for the RDE "On-Road PEMS Test Data Analysis and Light-duty Vehicle In-use Emissions Development" data analysis as per EPA’s 2020 paper in the SAE International Journal of Alternative Powertrains.   
-
 1. Open the RWET python code by using a python code editor like Spyder, Visual Studio code, etc.
 2. Click the "Run" button from the python code editor.
 3. Select the RDE_settings template Excel file
